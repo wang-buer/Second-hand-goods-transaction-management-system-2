@@ -1,6 +1,13 @@
-# 二手物品交易管理系统2
+# 二手物品交易管理系统
 
-#### 介绍
+## 获取方式
+
+扫描下方，回复关键词  ：**二手2**，获取完整版源码
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
+## 1、项目介绍
+
 二手物品交易管理系统2具有两种角色，管理员和用户，实现了以下功能：
 
 - 商品发布
@@ -20,35 +27,54 @@
 - 物品、消息、收藏夹的分页
 - 登录和注册
 
-#### 软件架构
-软件架构说明
+
+## 2、项目技术
+
+后端框架： Servlet、mvc模式
+
+前端技术：Bootstrap、jsp、css、JavaScript、JQuery
+
+## 3、开发环境
+
+- JAVA版本：JDK1.8
+- IDE类型：IDEA、Eclipse都可运行
+- tomcat版本：Tomcat 7-10版本均可
+- 数据库类型：MySql（5.x和8.x版本都可） 
+- maven项目：否
+- 硬件环境：Windows 或者 Mac OS
 
 
-#### 安装教程
+## 4、功能介绍
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 4.1 首页
 
-#### 使用说明
+![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041351005.jpg)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+![物品详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041351367.jpg)
 
-#### 参与贡献
+### 4.2 其它模块
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+![管理员-审核物品](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041351796.jpg)
+
+![用户-查看发布的物品](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041351057.jpg)
+
+![用户-个人信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041351073.jpg)
+
+![用户-购买历史](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041351751.jpg)
+
+![用户-购物车](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041351015.jpg)
+
+![用户-收藏夹](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041351410.jpg)
+
+![用户-下单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041352627.jpg)
+
+![用户-站内消息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041352122.jpg)
+
+## 5、获取方式
+
+扫描下方，回复关键词  ：**二手2** ，获取完整版源码
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
