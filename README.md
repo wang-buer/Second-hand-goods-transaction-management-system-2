@@ -1,10 +1,10 @@
-# 二手物品交易管理系统
+# 二手物品交易管理系统2
 
 ## 获取方式
 
-扫描下方，回复关键词  ：**二手2**，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**二手**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -48,33 +48,25 @@
 
 ### 4.1 首页
 
-![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041351005.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202208041351005.jpg)
 
-![物品详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041351367.jpg)
+![物品详情](https://www.codeshop.fun/Typora-Images/202208041351367.jpg)
 
 ### 4.2 其它模块
 
-![管理员-审核物品](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041351796.jpg)
+![管理员-审核物品](https://www.codeshop.fun/Typora-Images/202208041351796.jpg)
 
-![用户-查看发布的物品](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041351057.jpg)
+![用户-查看发布的物品](https://www.codeshop.fun/Typora-Images/202208041351057.jpg)
 
-![用户-个人信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041351073.jpg)
+![用户-个人信息管理](https://www.codeshop.fun/Typora-Images/202208041351073.jpg)
 
-![用户-购买历史](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041351751.jpg)
+![用户-购买历史](https://www.codeshop.fun/Typora-Images/202208041351751.jpg)
 
-![用户-购物车](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041351015.jpg)
+![用户-购物车](https://www.codeshop.fun/Typora-Images/202208041351015.jpg)
 
-![用户-收藏夹](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041351410.jpg)
+![用户-收藏夹](https://www.codeshop.fun/Typora-Images/202208041351410.jpg)
 
-![用户-下单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041352627.jpg)
+![用户-下单](https://www.codeshop.fun/Typora-Images/202208041352627.jpg)
 
-![用户-站内消息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041352122.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**二手2** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![用户-站内消息](https://www.codeshop.fun/Typora-Images/202208041352122.jpg)
 
